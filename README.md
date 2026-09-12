@@ -3,7 +3,7 @@
 
 **Asignatura:** Procesamiento de Lenguaje Natural I  
 **Programa:** Maestría en Inteligencia Artificial (CEIA - FIUBA)  
-**Autor:** Leandro AbRitez  
+**Autor:** Leandro A Britez  
 
 ---
 
@@ -80,5 +80,5 @@ pip install gensim tensorflow scikit-learn plotly pandas matplotlib seaborn ipyk
 
 ## 👨‍💻 Autor
 
-- **Leandro AbRitez** — [GitHub](https://github.com/leandroabritez)
+- **Leandro A Britez** — [GitHub](https://github.com/leandroabritez)
 - CEIA - Facultad de Ingeniería, Universidad de Buenos Aires (FIUBA)
